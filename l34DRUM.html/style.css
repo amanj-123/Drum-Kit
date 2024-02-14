@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-shadow: blue;
+
+}
+footer {
+     color:aqua;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ 
+
+
+.set{
+   margin: 10% auto;
+
+}
+.drum{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 2;
+    font-weight: 900;
+    color:palevioletred;
+    text-shadow: 3px 0 #404b94;
+    border-radius: 15px;
+}
+.pressed {
+    box-shadow: 0 3px 4px 0 red;
+    opacity: 0.5;
+}
+.w
+{ background-image: url("music/banjo.jpg");
+    font-size: 8rem;
+    color:rgb(220, 13, 47);
+}
+.a {
+background-image: url("music/drum.jpg");
+font-size: 8rem;width: 8rem ;
+color:rgb(220, 13, 47);
+}
+.s {font-size: 8rem;width: 8rem ;
+background-image: url("music/bhopu.jpg");color:rgb(220, 13, 47);
+}
+.d {font-size: 8rem;width: 8rem ;
+background-image: url("music/guitar.jpg");color:rgb(220, 13, 47);
+}
+.j {font-size: 8rem;width: 8rem ;
+background-image: url("music/harmonium.jpeg");color:rgb(220, 13, 47);
+}
+.k {font-size: 8rem;width: 8rem ;
+background-image: url("music/harp.jpeg");color:rgb(220, 13, 47);
+}
+.l {font-size: 8rem; width: 8rem ;
+background-image: url("music/tabla.jpg");color:rgb(220, 13, 47);
+}
